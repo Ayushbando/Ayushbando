@@ -48,14 +48,8 @@
 <br>
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/anurajshukla/" target="_blank">
+  <a href="www.linkedin.com/in/ayush-bandyopadhyay" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/anurajshukla/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/anuraj_.shukla?igshid=OTJhZDVkZWE=" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
